@@ -141,7 +141,7 @@ namespace csharp_typesystem_snacks
                     In un array sono contenuti i nomi degli invitati alla festa del grande Gatsby. Chiedi all’utente il suo nome e comunicagli se può partecipare o meno alla festa. */
                 {
 
-                    Console.WriteLine("benvenuto, sei in lista? Dimmi il tuo nome così controllo");
+                    Console.WriteLine("benvenuto, sei in lista? Dimmi il tuo nome così controllo (mi raccomando di dirmelo con la maiuscola!)");
 
                     //questa lista di nomi ci è stata gentilmente offerta da chat gpt (volevo rimanere in tema grande gatsby)
 
